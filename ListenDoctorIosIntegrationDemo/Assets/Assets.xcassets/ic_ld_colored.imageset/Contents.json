@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "ListenDoctor-icon-color.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "ListenDoctor-icon-color 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "ListenDoctor-icon-color 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
